@@ -1,0 +1,7 @@
+*.ini
+*.csv
+*.pgn
+pgns/
+env/
+*.json
+logs/

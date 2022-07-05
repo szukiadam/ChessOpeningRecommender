@@ -1,0 +1,236 @@
+1627293837582	geckodriver	INFO	Listening on 127.0.0.1:41161
+1627293838584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevIcTKd"
+1627293839568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevIcTKd/search.json.mozlz4", (void 0)))
+1627293843237	Marionette	INFO	Listening on port 44253
+1627293843356	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/block-library/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/components/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/block-editor/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/nux/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/reusable-blocks/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/editor/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-content/plugins/robo-gallery/includes/extensions/block/dist/blocks.style.build.css?ver=3.0.9 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Alegreya+Sans:300,400|Alegreya+SC&subset=latin,latin-ext without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Oswald:400,300&subset=latin,latin-ext without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.1/css/bootstrap-datepicker.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-content/themes/chesshu/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-content/themes/chesshu/normalize.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-content/themes/chesshu/style.css?v=4 without a browsingContextID set
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1627293948367	geckodriver	INFO	Listening on 127.0.0.1:53897
+1627293949375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUEZOS7"
+1627293950522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUEZOS7/search.json.mozlz4", (void 0)))
+1627293971968	Marionette	INFO	Listening on port 35047
+1627293972308	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1627294014410	Marionette	INFO	Stopped listening on port 35047
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627299419004	Marionette	INFO	Stopped listening on port 44253
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627334546569	geckodriver	INFO	Listening on 127.0.0.1:50265
+1627334547568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo1t0HJ"
+1627334549011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileo1t0HJ/search.json.mozlz4", (void 0)))
+1627334555198	Marionette	INFO	Listening on port 42185
+1627334555276	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627334631515	geckodriver	INFO	Listening on 127.0.0.1:58251
+1627334632526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9w7guU"
+1627334633737	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9w7guU/search.json.mozlz4", (void 0)))
+1627334637985	Marionette	INFO	Listening on port 36309
+1627334638074	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627334662318	geckodriver	INFO	Listening on 127.0.0.1:44301
+1627334663323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenyaSoa"
+1627334664113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenyaSoa/search.json.mozlz4", (void 0)))
+1627334667332	Marionette	INFO	Listening on port 34065
+1627334667530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627334703169	geckodriver	INFO	Listening on 127.0.0.1:57951
+1627334704167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOS8aAN"
+1627334705614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOS8aAN/search.json.mozlz4", (void 0)))
+1627334710578	Marionette	INFO	Listening on port 43203
+1627334710740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627334801520	geckodriver	INFO	Listening on 127.0.0.1:40853
+1627334802525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ8PXIS"
+1627334803410	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ8PXIS/search.json.mozlz4", (void 0)))
+1627334808442	Marionette	INFO	Listening on port 44027
+1627334808513	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627334994923	geckodriver	INFO	Listening on 127.0.0.1:46463
+1627334995925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel4kyZd"
+1627334997189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel4kyZd/search.json.mozlz4", (void 0)))
+1627335005133	Marionette	INFO	Listening on port 38445
+1627335005266	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627335246983	geckodriver	INFO	Listening on 127.0.0.1:48429
+1627335247995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGS1FUp"
+1627335249261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGS1FUp/search.json.mozlz4", (void 0)))
+1627335256828	Marionette	INFO	Listening on port 45555
+1627335256907	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627335495570	geckodriver	INFO	Listening on 127.0.0.1:42131
+1627335496579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyo9mU4"
+1627335497314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyo9mU4/search.json.mozlz4", (void 0)))
+1627335501419	Marionette	INFO	Listening on port 40405
+1627335501552	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/block-library/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/components/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/block-editor/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/nux/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/reusable-blocks/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-includes/css/dist/editor/style.min.css?ver=5.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-content/plugins/robo-gallery/includes/extensions/block/dist/blocks.style.build.css?ver=3.0.9 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Alegreya+Sans:300,400|Alegreya+SC&subset=latin,latin-ext without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://fonts.googleapis.com/css?family=Oswald:400,300&subset=latin,latin-ext without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.1/css/bootstrap-datepicker.min.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-content/themes/chesshu/style.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-content/themes/chesshu/normalize.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://chess.hu/wp-content/themes/chesshu/style.css?v=5 without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1627335930911	geckodriver	INFO	Listening on 127.0.0.1:53283
+1627335931915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZyiQGP"
+1627335932876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZyiQGP/search.json.mozlz4", (void 0)))
+1627335939172	Marionette	INFO	Listening on port 33623
+1627335939306	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627336284875	geckodriver	INFO	Listening on 127.0.0.1:54953
+1627336285876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileapnA0V"
+1627336286895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileapnA0V/search.json.mozlz4", (void 0)))
+1627336292717	Marionette	INFO	Listening on port 35125
+1627336292799	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627336603220	geckodriver	INFO	Listening on 127.0.0.1:39563
+1627336604156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletoJnfo"
+1627336605847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletoJnfo/search.json.mozlz4", (void 0)))
+1627336613907	Marionette	INFO	Listening on port 45803
+1627336614143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627336625025	Marionette	INFO	Stopped listening on port 43203
+1627336635133	Marionette	INFO	Stopped listening on port 34065
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 91: TypeError: merkData is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+JavaScript error: https://chess.hu/wp-content/themes/chesshu/js/merkozesek.js, line 173: TypeError: _obj.helyszin is null
+1627370898853	Marionette	INFO	Stopped listening on port 45803
